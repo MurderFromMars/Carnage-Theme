@@ -14,16 +14,16 @@ theme[hi_fg]="#d00d11"
 theme[selected_bg]="#d00d11"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#000000"
+theme[selected_fg]="#44a8ab"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#44a8ab"
+theme[inactive_fg]="#d00d11"
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
 theme[graph_text]="#d00d11"
 
 # Background color of the percentage meters
-theme[meter_bg]="#000000"
+theme[meter_bg]="#d00d11"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#d00d11"
@@ -35,7 +35,7 @@ theme[net_box]="#44a8ab"
 theme[proc_box]="#44a8ab"
 
 # Box divider line and small boxes line color
-theme[div_line]="#44a8ab"
+theme[div_line]="#d00d11"
 
 # Temperature graph color (cool -> hot)
 theme[temp_start]="#44a8ab"
