@@ -31,33 +31,33 @@
       "type": "host",
       "key": "PC",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "CPU",
       "key": "CPU",
       "showPeCoreCount": false,
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "gpu",
       "key": "GPU",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "memory",
       "key": "MEMORY",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "disk",
       "key": "DISK",
       "keyColor": "35",
       "format": "{1} / {2} ({3}) - {9}",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "custom",
@@ -72,19 +72,19 @@
       "type": "os",
       "key": "DISTRO",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "kernel",
       "key": "KERNEL",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "gpu",
       "key": "DRIVER",
       "keyColor": "35",
-      "outputColor": "37",
+      "outputColor": "blue",
       "format": "{driver}"
     },
     {
@@ -92,19 +92,19 @@
       "key": "PACKAGES",
       "managers": ["pacman"],
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "terminal",
       "key": "TERMINAL",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "shell",
       "key": "SHELL",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "custom",
@@ -119,19 +119,19 @@
       "type": "de",
       "key": "DE",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "wm",
       "key": "WM",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "wmtheme",
       "key": "THEME",
       "keyColor": "35",
-      "outputColor": "37"
+      "outputColor": "blue"
     },
     {
       "type": "custom",
